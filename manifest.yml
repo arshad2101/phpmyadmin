@@ -1,0 +1,9 @@
+---
+applications:
+- name: phpmyadmin
+  buildpack: php_buildpack
+  host: phpmyadmin-asd
+  domain: mybluemix.net
+  memory: 256M
+  disk_quota: 256M
+  stack: cflinuxfs2

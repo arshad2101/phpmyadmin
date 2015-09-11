@@ -1,0 +1,3 @@
+{
+   "PHP_EXTENSIONS": ["mysqli","zip","zlib","gd","mbstring","xmlrpc","soap"]
+}
